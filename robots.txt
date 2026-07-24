@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://porthuronrestoration.com/sitemap.xml
